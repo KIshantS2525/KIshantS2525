@@ -138,9 +138,9 @@ A dual-sided platform with a 3-tier context system — the more context you give
 
 <div align="center">
 
-![Ishant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KIshantS2525&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KIshantS2525&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KIshantS2525&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KIshantS2525&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
